@@ -9,7 +9,7 @@
     <img src="assets/hero-light.svg" alt="Cosmic Realm — Full-Stack Developer" width="100%">
   </picture>
 
-  <h1>Hi, I'm Pragati Pal 👋</h1>
+  <h1>Hi, I'm Cosmic Dev 👋</h1>
   <h3>Full-Stack Developer | Java, React &amp; AI Engineering</h3>
   <p>
     Building modern web applications and AI-powered solutions.<br>
